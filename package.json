@@ -3,9 +3,6 @@
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "commands": "node deploy-commands.js"
-  },
   "keywords": [],
   "author": "",
   "license": "MIT",
